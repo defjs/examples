@@ -1,0 +1,5 @@
+{
+  "name": "defjs-examples",
+  "version": "0.0.0",
+  "workspaces": ["apps/*"]
+}
